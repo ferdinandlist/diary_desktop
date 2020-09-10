@@ -1,0 +1,26 @@
+{
+  "name": "diary_desktop",
+  "version": "1.0.0",
+  "description": "desktop version of the diary desktop app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdinandlist/diary_desktop.git"
+  },
+  "keywords": [
+    "reference",
+    "database"
+  ],
+  "author": "Ferdinand List",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ferdinandlist/diary_desktop/issues"
+  },
+  "homepage": "https://github.com/ferdinandlist/diary_desktop#readme",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
+}
